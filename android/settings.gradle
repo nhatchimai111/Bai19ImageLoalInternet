@@ -1,0 +1,3 @@
+rootProject.name = 'Bai19ImageLoalInternet'
+
+include ':app'
